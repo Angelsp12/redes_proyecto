@@ -1,4 +1,4 @@
-# 🧠 Restauración de Imágenes con Redes Neuronales Profundas
+#  Restauración de Imágenes con Redes Neuronales Profundas
 
 Este repositorio contiene un proyecto de **Redes Neuronales y Aprendizaje Profundo** cuyo objetivo es la **restauración y colorización automática de imágenes antiguas o dañadas** mediante técnicas de **Deep Learning**, utilizando TensorFlow/Keras y una interfaz interactiva desarrollada con Streamlit.
 
@@ -6,19 +6,19 @@ El sistema permite al usuario cargar una imagen en escala de grises y obtener co
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Desarrollar e implementar una red neuronal profunda capaz de aprender la relación entre imágenes degradadas (blanco y negro) y sus versiones restauradas, demostrando la aplicación práctica del aprendizaje profundo en el procesamiento digital de imágenes.
 
 ---
 
-## 🧠 Descripción general
+##  Descripción general
 
 El proyecto está compuesto por tres elementos principales: un notebook donde se desarrolla el análisis, preprocesamiento, entrenamiento y evaluación del modelo; un modelo entrenado que encapsula el conocimiento aprendido por la red neuronal; y una aplicación interactiva que permite utilizar el modelo de forma sencilla mediante una interfaz gráfica.
 
 ---
 
-## 🏗️ Arquitectura del sistema
+##  Arquitectura del sistema
 
 - **Entrada:** Imagen en escala de grises (simulación de fotografías antiguas).
 - **Preprocesamiento:** Normalización y redimensionamiento a 256×256 píxeles.
@@ -28,7 +28,7 @@ El proyecto está compuesto por tres elementos principales: un notebook donde se
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 PROYECTO/
@@ -41,7 +41,7 @@ PROYECTO/
 ---
 
 
-## 🛠️ Requisitos del sistema
+##  Requisitos del sistema
 
 ### Hardware
 - Computadora con CPU moderna
@@ -57,7 +57,7 @@ PROYECTO/
 
 ---
 
-## ▶️ Ejecución del proyecto
+##  Ejecución del proyecto
 
 1️⃣ Clonar el repositorio
 git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git

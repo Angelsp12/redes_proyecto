@@ -58,8 +58,7 @@ PROYECTO/
 
 ## ▶️ Ejecución del proyecto
 
-### 1️⃣ Clonar el repositorio
-```bash
+1️⃣ Clonar el repositorio
 git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
 cd NOMBRE_DEL_REPOSITORIO
 

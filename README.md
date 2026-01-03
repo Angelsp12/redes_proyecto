@@ -57,17 +57,22 @@ PROYECTO/
 
 ---
 
-##  Ejecución del proyecto
+## ▶️ Ejecución del proyecto
 
 1️⃣ Clonar el repositorio
-git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
-cd NOMBRE_DEL_REPOSITORIO
+```bash
+git clone https://github.com/Angelsp12/redes_proyecto.git
+cd redes_proyecto
+```
 
-2️⃣ Instalar dependencias
+2️⃣ Instalar las dependencias
+```bash
 pip install tensorflow streamlit numpy opencv-python pillow
+```
 
 3️⃣ Ejecutar la aplicación
+```bash
 streamlit run app.py
+```
 
-
-La aplicación se abrirá automáticamente en el navegador y permitirá cargar una imagen para restaurarla con la IA.
+Al ejecutar el comando anterior, la aplicación se abrirá automáticamente en el navegador y permitirá cargar una imagen para ser restaurada mediante la red neuronal.

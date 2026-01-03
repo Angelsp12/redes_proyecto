@@ -30,3 +30,44 @@ El proyecto está compuesto por tres elementos principales: un notebook donde se
 
 ## 📂 Estructura del repositorio
 
+PROYECTO/
+│
+├── app.py
+├── proyecto_redes.ipynb
+├── modelo_restauracion_final.keras
+└── README.md
+
+
+---
+
+## 🛠️ Requisitos del sistema
+
+### Hardware
+- Computadora con CPU moderna
+- GPU opcional (recomendado para entrenamiento)
+
+### Software
+- Python 3.9 o superior
+- TensorFlow
+- Streamlit
+- NumPy
+- OpenCV
+- Pillow
+
+---
+
+## ▶️ Ejecución del proyecto
+
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
+cd NOMBRE_DEL_REPOSITORIO
+
+2️⃣ Instalar dependencias
+pip install tensorflow streamlit numpy opencv-python pillow
+
+3️⃣ Ejecutar la aplicación
+streamlit run app.py
+
+
+La aplicación se abrirá automáticamente en el navegador y permitirá cargar una imagen para restaurarla con la IA.

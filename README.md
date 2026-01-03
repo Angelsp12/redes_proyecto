@@ -57,7 +57,7 @@ PROYECTO/
 
 ---
 
-## ▶️ Ejecución del proyecto
+## Ejecución del proyecto
 
 1️⃣ Clonar el repositorio
 ```bash

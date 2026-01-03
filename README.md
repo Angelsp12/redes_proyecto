@@ -31,14 +31,12 @@ El proyecto está compuesto por tres elementos principales: un notebook donde se
 ## 📂 Estructura del repositorio
 
 PROYECTO/
-│
 ├── app.py
 ├── proyecto_redes.ipynb
 ├── modelo_restauracion_final.keras
 └── README.md
-
-
 ---
+
 
 ## 🛠️ Requisitos del sistema
 
